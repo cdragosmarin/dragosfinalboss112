@@ -270,7 +270,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 "subterană",
                 "arboricolă"
             ],
-            correctAnswers: ["arboricolă"]
+            correctAnswers: ["subternă"]
         }
     ];
     
