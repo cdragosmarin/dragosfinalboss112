@@ -148,7 +148,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 "bicromatidici",
                 "despiralizaţi"
             ],
-            correctAnswers: ["bicromatidici"]
+            correctAnswers: ["bicromatidici" ,"despiralizaţi" ]
         },
         {
             question: "368. În aranjarea cromozomilor in cariotip se tine cont de:",
