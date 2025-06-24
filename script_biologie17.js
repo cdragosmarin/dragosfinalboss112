@@ -191,12 +191,12 @@ document.addEventListener("DOMContentLoaded", function() {
         {
             question: "587. Mamifere paracopitate sunt:",
             choices: ["a) rinocerotidele", "b) proboscidienii", "c) cervidele"],
-            correctAnswers: ["b) proboscidienii"]
+            correctAnswers: ["c) cervidele"]
         },
         {
             question: "588. Proboscidienii (elefanţii) au regim de hrană:",
             choices: ["a) vegetarian", "b) carnivor", "c) vegetarian şi carnivor"],
-            correctAnswers: ["a) vegetarian"]
+            correctAnswers: ["b) carnivor"]
         },
         {
             question: "589. Fildeşii elefanţilor sunt daţi de:",
