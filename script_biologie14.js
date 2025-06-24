@@ -193,7 +193,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 "b) Ginkgo, Criptomeria şi Picea",
                 "c) Cycas, Ginkgo şi Criptomeria -Abies"
             ],
-            correctAnswers: ["a) Cycas, Ginkgo şi Taxus"]
+            correctAnswers: ["c) Cycas, Ginkgo şi Criptomeria -Abies"]
         },
         {
             question: "488. Vârful vegetativ meristematic la Angiospermae în secţiune longitudinală prin apexul caulinar prezintă următoarele zone:",
